@@ -12,5 +12,3 @@
 
 **这是一个专注编程知识和资源分享的公众号，包含各类编程学习路线，让你在编程路上少走弯路**
 
-![公众号二维码](https://cdn.jsdelivr.net/gh/goldstine/goldstine.github.io/images/weixin.jpg)
-
